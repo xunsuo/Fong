@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf8"?>
+<studentcareer>
+  <period>
+  <classname>验证码类</classname>
+  <classfile>Verify.class.php</classfile>
+	<classpath>Verify</classpath>
+  </period>
+
+</studentcareer>
