@@ -1,11 +1,11 @@
 <?php
 $config = array(
       //'配置项'=>'配置值'
-      'DB_TYPE'=> 'mysql',
-      'DB_HOST'=> 'localhost',
-      'DB_NAME'=>'thinkphpapi',
-      'DB_USER'=>'root',
-      'DB_PWD'=>'root',
+      'DB_TYPE'=> '',
+      'DB_HOST'=> '',
+      'DB_NAME'=>'',
+      'DB_USER'=>'',
+      'DB_PWD'=>'',
       'DB_PORT'=>'3306',
-      'DB_PREFIX'=>'weixin_',
+      'DB_PREFIX'=>'fong_',
 );
